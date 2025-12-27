@@ -18,5 +18,3 @@ This project focuses on clean UI, layout structuring, and modern design principl
 - **CSS3**
 
 ---
-
-## 📂 Project Structure
